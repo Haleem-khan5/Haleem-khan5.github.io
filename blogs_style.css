@@ -1,0 +1,28 @@
+body{
+    background-color:white;
+    font-family: 'Heebo', sans-serif;
+    padding-bottom: 5%;
+}
+#navbar-div{
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 20px;
+    padding: 10px 20px;
+    font-weight: 500;
+
+}
+a.navbar-link{
+    text-decoration: none;
+    color: black !important;
+}
+.my-h4{
+    font-weight: 400;
+    font-size: 22px;
+    color: #212430;
+    margin :0px;
+    padding-bottom: 10px;
+}
+div.horizental-card > img{
+    border-radius: 6px;
+    display: flex;
+}
